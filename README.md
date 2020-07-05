@@ -1,8 +1,6 @@
 Node must be installed to run these program. 
 
-Install first and
-
-Clone and Go to the project directory and use node 'filename' to execute file in command line
+Install Node first then Clone this project and Access each Folder directory and use node 'filename' to execute file in command line
 
 Ex:
 
